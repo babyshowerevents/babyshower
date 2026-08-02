@@ -1,0 +1,12 @@
+babyshowerevents/
+│
+├── index.html
+├── join.html
+├── host.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── firebase.js
+│   ├── join.js
+│   └── host.js
+└── assets/
